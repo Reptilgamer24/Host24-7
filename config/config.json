@@ -1,7 +1,7 @@
 {
-    "token": "OTc1Nzc3MzIxNjY5NzgzNTkz.GhPGIN.VOPH9Qsqvj1Xx1NfJvJRBHgBYslr4xy7Fs0CD0",
+    "token": "",
     "prefix": ">>",
-    "mongodb": "mongodb+srv://reptilgamer24:cartoslol2.0@cluster0.gwzcs.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb": "",
     "ownerIDS": ["752351959301750786"],
     "color": "#8400ff"
 }
